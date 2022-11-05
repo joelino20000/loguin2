@@ -1,16 +1,23 @@
 # login_ui
 
-A new Flutter project.
 
-## Getting Started
+## Joel Bautista
 
-This project is a starting point for a Flutter application.
+Aca se va a evidenciar de parte grafica el cidigo login la cual sirve para registro, iniciar sesion olvidar contraseña quye esta unido a una base de datos 
 
-A few resources to get you started if this is your first Flutter project:
+# registro
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/101758506/195660534-d5e68648-940a-4bae-94ab-e708edf03138.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# iniciar sesion 
+
+![image](https://user-images.githubusercontent.com/101758506/195660886-6292f229-3102-4ae2-9a15-6b4363684b5a.png)
+
+# olvido su contraseña
+
+![image](https://user-images.githubusercontent.com/101758506/195661060-e495752a-2c11-431a-b84d-9c1c1efc6817.png)
+
+# Base de datos 
+
+![image](https://user-images.githubusercontent.com/101758506/195661375-e0c627a9-9bd5-413d-9f7f-eaa3ef6f3ed9.png)
+
